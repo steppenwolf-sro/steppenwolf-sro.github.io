@@ -7,6 +7,12 @@ h1, h2 {
   font-weight: 300;
 }
 
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.7rem;
+}
+
 .screen {
   min-height: 50vh;
 
@@ -57,4 +63,16 @@ footer {
 .icon {
   max-width: 24px;
   vertical-align: top;
+}
+
+.we {
+  text-align: center;
+
+  img {
+    max-width: 64px;
+  }
+}
+
+.navbar {
+  background: #00796B !important;
 }
