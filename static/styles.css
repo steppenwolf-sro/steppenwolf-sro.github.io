@@ -10,17 +10,15 @@ h2 {
   text-transform: uppercase;
   font-size: 1.7rem; }
 
-.screen {
-  min-height: 50vh; }
-  .screen--promo {
-    color: #fff;
-    background: #00796B; }
-  .screen--dark {
-    background: #ECEFF1;
-    border-top: 1px solid #CFD8DC;
-    border-bottom: 1px solid #CFD8DC; }
-  .screen hr {
-    max-width: 70%; }
+.screen--promo {
+  color: #fff;
+  background: #00796B; }
+.screen--dark {
+  background: #ECEFF1;
+  border-top: 1px solid #CFD8DC;
+  border-bottom: 1px solid #CFD8DC; }
+.screen hr {
+  max-width: 70%; }
 
 footer {
   background: #37474F;
